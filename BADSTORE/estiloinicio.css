@@ -1,0 +1,60 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	width: 65%;
+	height: 50%;
+	position: relative;
+	top: 50%;
+	left: 1%;
+}
+body{
+background-image: url('./img/in.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+height: 100px;
+background-attachment: fixed;
+
+
+
+}
+.form-register h1{
+	font-size: 12px;
+	margin-bottom: 20px;
+	background: #24303c;
+
+
+
+}
+.controls{
+	width: 100%;
+	background: #24303c;
+	padding: 20px;
+	border-radius: 10px;
+	margin-bottom: 10px ;
+	border: 1px solid #85c51f;
+	font-family: 'calibri';
+	font-size: 18px;
+	
+
+}
+.form-register{
+	width: 100%;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
